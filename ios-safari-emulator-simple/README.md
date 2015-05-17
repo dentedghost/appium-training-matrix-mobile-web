@@ -1,8 +1,10 @@
 # Appium Training focused on implementing mobile web for IOS
 
 ## Interconnected Training: 
-Companion Step by Step Blog: http://dentedghost.blogspot.com/2015/05/ios-safari-emulator-simple-introduction.html 
+Companion Step by Step Blog: http://dentedghost.blogspot.com/2015/05/ios-safari-emulator-simple-introduction.html
+ 
 Youtube Channel: https://www.youtube.com/channel/UCLeydPVi0yPtCeu74x2f2FQ
+
 Twitter: https://twitter.com/dentedghost 
 
 ## Before you test
