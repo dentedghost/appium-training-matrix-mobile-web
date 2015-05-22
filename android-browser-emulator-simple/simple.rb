@@ -6,9 +6,8 @@ require 'appium_lib'
 desired_caps = {  
    caps:  {  
         platformName:  'Android',
-        versionNumber: '5.1.1',
+        platformVersion: '5.1',
         deviceName:    'Nexus_5_API_22_x86',
-        bundleId:      'com.android.browser',
         browserName:   'Browser',
     }  
 } 
