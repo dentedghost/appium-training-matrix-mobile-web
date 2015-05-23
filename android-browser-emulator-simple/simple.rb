@@ -29,7 +29,6 @@ desired_caps = {
 Appium.promote_appium_methods Object  
 
 # Open web page
-# Note apple.com open first unless you override it in caps using safariInitialUrl
 @selenium_driver.get("http://www.google.com/")  
 
 # Extra time to allow webpage to load
