@@ -38,6 +38,7 @@ sleep(5)
 element = find_element(:id, 'lst-ib')
 element.click
 element.send_keys 'Steven Miller Dentedghost Appium'
+
 # Extra pause for demostration
 sleep(2)
 
